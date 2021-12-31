@@ -1,0 +1,5 @@
+pude lograr crear la base de datos atraces del main, models.py y schemas.py 
+el problema fue cuando trataba de mostrar el apiweb, por alguna razon mariadb ya no respondia
+por lo que la unica solucion que me funciono era reiniciar el computador,
+no obstante cuando podia entrar para revisar si se creo la base de datos con sus tablas 
+todo estaba bien
