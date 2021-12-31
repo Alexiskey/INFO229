@@ -1,0 +1,7 @@
+logre hacer lo que se pedia en el ejercicio, 
+el programa busca en wikipedia en ingles, por lo que palabras como "chile" el codigo la confunde como china.
+el programa se ejecuta con 
+$ python3 wiki-producer.py {"palabra a buscar en wikipedia"} 
+* sin los {} ni los ""
+ejemplo 
+$ python3 wiki-producer.py Disney
